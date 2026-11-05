@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my GitHub! 👋 🏗️</h1>
-<p align="center"><b>Hi, It's Beezo! I look for creative projects that help bring together communities as well as different worlds.</b></p>
+<p align="center"><b>Hi, It's Beezo! I look for creative projects that challenge me, help communities or combine different pools of knowledge.</b></p>
 
 <p align="center">
   <a href="mailto:Brian.dono12@gmail.com"><img src="https://img.shields.io/badge/Gmail-seashell?style=for-the-badge&logo=gmail&logoColor=red"/></a>
