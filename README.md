@@ -36,7 +36,6 @@
       <img src="https://img.shields.io/badge/Claude_Code-D97757?style=plastic&logo=claude&logoColor=white"/>
       <img src="https://img.shields.io/badge/Agent_Skills-D97757?style=plastic&logo=anthropic&logoColor=white"/>
       <img src="https://img.shields.io/badge/Custom_Subagents-2B2A2A?style=plastic&logo=anthropic&logoColor=D97757"/>
-      <img src="https://img.shields.io/badge/Kubernetes-blue?style=plastic&logo=kubernetes&logoColor=white"/>
       <img src="https://img.shields.io/badge/Meshtastic-67EA94?style=plastic&logo=meshtastic&logoColor=black"/>
       <img src="https://img.shields.io/badge/Red_Teaming-red?style=plastic"/>
     </td>
@@ -96,6 +95,7 @@
       <img src="https://img.shields.io/badge/Networking-royalblue?style=plastic&logo=network&logoColor=%23F7DF1E"/>
       <img src="https://img.shields.io/badge/Arduino-green?style=plastic&logo=arduino&logoColor=white"/>
       <img src="https://img.shields.io/badge/MCP_Servers-black?style=plastic&logo=modelcontextprotocol&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kubernetes-blue?style=plastic&logo=kubernetes&logoColor=white"/>
     </td>
   </tr>
 </table>
